@@ -11,7 +11,7 @@
 
 ## Introduction
 
-This is the official implementation of **Exact-GS**.
+This is the official implementation of our CVPR 2026 paper **Exact-GS**.
 
 
 
