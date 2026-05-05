@@ -11,7 +11,8 @@
 
 ## Introduction
 
-This is the official implementation of our CVPR 2026 paper **Exact-GS**.
+
+This is the official implementation of our CVPR 2026 paper **Exact-GS**. [CVPR paper](https://cvpr.thecvf.com/virtual/2026/poster/36497){target="_blank"}
 
 
 
