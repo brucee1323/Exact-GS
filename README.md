@@ -5,6 +5,7 @@
 
 <h2> Exact-GS: Mathematically Rigorous and Accurate 3D Gaussian Splatting for 3D X-ray Reconstruction </h2>
 
+![截图](./images/Exact-GS.png)
 </div>
 
 &nbsp;
