@@ -3,7 +3,7 @@
 <div align="center">
 
 
-<h2> [Exact-GS: Mathematically Rigorous and Accurate 3D Gaussian Splatting for 3D X-ray Reconstruction](https://cvpr.thecvf.com/virtual/2026/poster/36497) </h2>
+<h2>  <a href="https://cvpr.thecvf.com/virtual/2026/poster/36497"> Exact-GS: Mathematically Rigorous and Accurate 3D Gaussian Splatting for 3D X-ray Reconstruction </a>    </h2>
 
 ![截图](./images/Exact-GS.png)
 </div>
