@@ -5,7 +5,7 @@
 
 <h2>  <a href="https://openaccess.thecvf.com/content/CVPR2026/html/Yang_Exact-GS_Mathematically_Rigorous_and_Accurate_3D_Gaussian_Splatting_for_3D_CVPR_2026_paper.html"> Exact-GS: Mathematically Rigorous and Accurate 3D Gaussian Splatting for 3D X-ray Reconstruction </a>    </h2>
 
-![截图](./images/Exact-GS.png)
+![截图](./images/poster.png)
 </div>
 
 &nbsp;
@@ -22,7 +22,7 @@ Presentation: [Video presentation](https://www.youtube.com/watch?v=MsCFB3z-cJU).
 
 coming soon...
 
-### 1. Installation
+## 1. Installation
 
 We recommend using pip to do the installation.
 
@@ -38,11 +38,11 @@ pip install TIGRE-2.3/Python --no-build-isolation
 ```
 
 
-### 2. Dataset
+## 2. Dataset
 
 coming soon...
 
-### 3. Running
+## 3. Running
 
 3.1 Training
 
