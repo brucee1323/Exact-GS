@@ -10,7 +10,7 @@
 
 &nbsp;
 
-# Introduction
+## Introduction
 
 
 This is the official implementation of our CVPR 2026 paper.
@@ -20,7 +20,6 @@ Paper: [Exact-GS](https://openaccess.thecvf.com/content/CVPR2026/html/Yang_Exact
 Presentation: [Video presentation](https://www.youtube.com/watch?v=MsCFB3z-cJU).
 
 
-coming soon...
 
 ## 1. Installation
 
@@ -89,9 +88,7 @@ python test.py --method=Exact_GS --source_path=data/3_pepper_50 --model_path=dat
 
 ## 4. Acknowledgement, license and citation
 
-Our code is adapted from [Gaussian Splatting](https://github.com/graphdeco-inria/gaussian-splatting), [r2_gaussian](https://github.com/Ruyi-Zha/r2_gaussian/tree/main). We thank the authors for their excellent works.
-
-This project is under the license of [Gaussian Splatting](https://github.com/graphdeco-inria/gaussian-splatting).
+Our code is adapted from [Gaussian Splatting](https://github.com/graphdeco-inria/gaussian-splatting), [r2_gaussian](https://github.com/Ruyi-Zha/r2_gaussian/tree/main), [Speedy-Splat](https://github.com/j-alex-hanson/speedy-splat). Thanks to everyone who contributed code. This project is under the license of [Gaussian Splatting](https://github.com/graphdeco-inria/gaussian-splatting).
 
 ## 5. BibTeX
 
