@@ -1,0 +1,84 @@
+{
+    "scanner": {
+        "mode": "cone",
+        "filter": null,
+        "DSD": 7.0,
+        "DSO": 5.0,
+        "nDetector": [
+            512,
+            512
+        ],
+        "sDetector": [
+            4.0,
+            4.0
+        ],
+        "nVoxel": [
+            256,
+            256,
+            256
+        ],
+        "sVoxel": [
+            2.0,
+            2.0,
+            2.0
+        ],
+        "offOrigin": [
+            0,
+            0,
+            0
+        ],
+        "offDetector": [
+            0,
+            0
+        ],
+        "accuracy": 0.5,
+        "totalAngle": 360.0,
+        "startAngle": 0.0,
+        "noise": true
+    },
+    "bbox": [
+        [
+            -1,
+            -1,
+            -1
+        ],
+        [
+            1,
+            1,
+            1
+        ]
+    ],
+    "proj_train": [
+        {
+            "file_path": "proj_train/proj_train_0000.npy",
+            "angle": 0.0
+        },
+        {
+            "file_path": "proj_train/proj_train_0001.npy",
+            "angle": 1.2566370614359172
+        },
+        {
+            "file_path": "proj_train/proj_train_0002.npy",
+            "angle": 2.5132741228718345
+        },
+        {
+            "file_path": "proj_train/proj_train_0003.npy",
+            "angle": 3.7699111843077517
+        },
+        {
+            "file_path": "proj_train/proj_train_0004.npy",
+            "angle": 5.026548245743669
+        }
+    ],
+    "proj_test": [
+        {
+            "file_path": "proj_test/proj_test_0000.npy",
+            "angle": 0.036148330218060735
+        },
+        {
+            "file_path": "proj_test/proj_test_0050.npy",
+            "angle": 3.084275318685437
+        }
+    ],
+    "vol": "vol_gt.npy"
+}
