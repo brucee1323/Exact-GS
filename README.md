@@ -39,7 +39,8 @@ pip install TIGRE-2.3/Python --no-build-isolation
 
 ## 2. Dataset
 
-coming soon...
+
+FIPS_Resampled: [Data](https://huggingface.co/datasets/Slowman56/FIPS_Resampled_real_CT_Data).
 
 ## 3. Running
 
